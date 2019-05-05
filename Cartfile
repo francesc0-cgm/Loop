@@ -1,0 +1,9 @@
+github "kdisimone/LoopKit" "tp-override-mode"
+github "kdisimone/CGMBLEKit" "omni-override"
+github "i-schuetz/SwiftCharts" == 0.6.5
+github "kdisimone/dexcom-share-client-swift" "omni-override"
+github "kdisimone/G4ShareSpy" "omni-override"
+github "kdisimone/rileylink_ios" "omni-override"
+github "LoopKit/Amplitude-iOS" "decreepify"
+github "maxkonovalov/MKRingProgressView" ~> 2.2
+github "francesc0-cgm/spike-client-swift-195" "omni-overrides-spike"
